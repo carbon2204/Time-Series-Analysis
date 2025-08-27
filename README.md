@@ -6,5 +6,7 @@ Application for analyzing and predicting exchange rates using time series
 - Tkinter
 - Numpy
 - REST-API Центрального банка РФ
+- ARIMA (AutoRegressive Integrated Moving Average)
+-The Holt-Winters algorithm
 # Description
 Сайт для предсказания временных рядов на основе курса валют. С помощью модели машинного обучения возможно "предсказать" курс валюты на основе предыдущих значений. Также есть возможность узнать курс валюты на любое время, курс валюты относительно других валют, новость из финансовой обласи. Реализован личной кабинет пользователя.
